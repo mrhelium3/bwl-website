@@ -1,0 +1,66 @@
+  <div id="" data-aos="fade-down" data-aos-duration='400' >
+
+
+
+  <div class="list"  data-visible= "false" class="blur" >
+
+<img src="https://dunb17ur4ymx4.cloudfront.net/webstore/logos/108b467eb46e27da256a46a489e5664880f67af6.png" alt="LOGO" class="front" data-aos="zoom-in" data-aos-duration='250'>
+<div id="abv">
+
+<a href="#section2">
+
+<button  class="5" class="list-link" style="cursor:pointer"><i class="hy"></i></button>
+</a>
+</div>
+     <div id="abv">
+
+     <a href="#section1">
+
+     <button  class="5" class="list-link" style="cursor:pointer"><i class="hx"></i></button>
+     </a>
+     </div>
+  <div id="abv">
+
+  <a href="#section3">
+
+  <button   class="5" class="list-link" style="cursor:pointer"><i class="hc"></i></button>
+  </a>
+  </div>
+  <div id="abv">
+
+  <a href="#section5">
+
+  <button   class="5" class="list-link" style="cursor:pointer"><i class="hv"></i></button>
+  </a>
+  </div>
+<div id="abv">
+
+<a href="https://solo.to/bwleague">
+
+<button   class="5" class="list-link" style="cursor:pointer"><i class="hb"></i></button>
+</a>
+</div>
+
+
+<div id="abv">
+
+<a href="https://store.bw-league.com">
+
+<button   class="5" class="list-link" style="cursor:pointer"><i class="hn"></i></button>
+</a>
+</div>
+<div id="abv">
+
+<a href="#">
+
+<button   class="5" class="list-link" style="cursor:pointer"><i class="hk"></i></button>
+</a>
+</div>
+<div id="abv">
+
+
+<button onclick="myFunction() " class="change" class="5" class="list-link" style="cursor:pointer"><i class="far fa-moon"></i></button>
+</div>
+
+ </div>
+</div>
